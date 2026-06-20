@@ -1,4 +1,4 @@
-Messenger: 565.0.0.43.88  
+Messenger: 566.0.0.57.86  
 
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root the app from Play Store
   
